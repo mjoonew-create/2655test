@@ -1,0 +1,6 @@
+{
+  "name": "分組工具 (Random Grouping Tool)",
+  "description": "一個簡單實用的隨機分組工具，支援設定組數或每組人數，並可快速複製結果。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
